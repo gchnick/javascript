@@ -1,0 +1,11 @@
+{
+  "name": "intro-dom",
+  "version": "1.0.0",
+  "description": "curso de javascript en udemy",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
